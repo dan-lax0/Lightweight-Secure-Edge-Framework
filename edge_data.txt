@@ -1,0 +1,6 @@
+
+Timestamp: 2026-05-17 19:09:07
+DeviceID: EDGE_SIM_01
+Temperature: 33C
+Humidity: 63%
+SystemStatus: Normal
