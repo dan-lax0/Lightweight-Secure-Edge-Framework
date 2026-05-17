@@ -9,7 +9,7 @@ Steps to Run:
 5. Run ai_module.py
 
 OR simply run:
-python run_demo.py
+python main.py
 
 To test tampering:
 Run tamper_test.py before server_module.py
